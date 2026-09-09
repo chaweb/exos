@@ -5,8 +5,8 @@ def imprime():
     print ("Salut")
 
 def BLABLA():
-    print("BLABLA")
+    print("BLABLU")
 
 def ma_fonction():
-    a=input("veuillez entrer un nom qui est une prénom chinois:")
+    a=input("veuillez entrer un prénom chinois:")
     return f"Bonjour {a}!"
