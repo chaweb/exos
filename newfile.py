@@ -8,5 +8,5 @@ def BLABLA():
     print("BLABLA")
 
 def ma_fonction():
-    a=input("veuillez entrer un nom")
+    a=input("veuillez entrer un nom qui est une prénom chinois:")
     return f"Bonjour {a}!"
